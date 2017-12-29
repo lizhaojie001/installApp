@@ -1,0 +1,26 @@
+Johnny's open source license, v0.1
+----------------------------------
+
+This is (well, will be, at the time of writing) open source, and I can't but appeal to your sense of decency. You might try compile this and try to pass it as your own. Heck, you might even try to run it through llvm-obfuscator. But that would be stealing code. And obfuscate as you will, you can't obfuscate enough to hide the methods. So, primum non nocere. Do no harm, and do not steal.
+
+To be fully clear:
+
+ - Yes, you may use this source as you see fit, PROVIDED THAT:
+
+	- IT IS NOT USED COMMERCIALLY IN ANY WAY. For this, I ask that you contact my company, @Technologeeks, and ask for proper licensing.
+	- IT IS NOT USED AS A COMPONENT OF AN APT IN ANY KIND FORM OR MANNER. (NSO/Hackin9/Finfisher/Equus/etc - that means you)
+	- WHEN YOU DO USE IT, YOU MENTION THAT YOUR TOOL IS "powered by the QiLin Toolkit", or otherwise provide a user facing indication that it is using this code.
+
+  - There are no limitation on nationality, specific people exclusions, or any other race, color or creed - provided the above are met.
+
+Should you wish to contribute/donate, you may do so in one of the following ways:
+
+	- Monetary: Pick a charity. Any charity. Of your choice. Pay them however money you want. 
+		    Optionally, tweet/fb/insta/snap-whatever a screen capture stating "#QiLin". 
+
+        - Development: Through http://NewOSXBook.com/forum - you are welcome to ask (proper technical, not lame wen eta) questions and engage in discussions
+	
+	- Efforts: Get my books, or get the training by @Technologeeks.
+
+
+First, do no harm. Next, have fun :-)
