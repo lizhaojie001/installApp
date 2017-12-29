@@ -25,15 +25,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.thundersoft.emm</string>
+				<string>com.newosxbook.jb.liberios</string>
 				<key>bundle-version</key>
-				<string>2.01.41</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>EMM</string>
+				<string>QiLin</string>
 				<key>title</key>
-				<string>EMM</string>
+				<string>QiLin</string>
 			</dict>
 		</dict>
 	</array>
