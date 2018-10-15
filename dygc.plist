@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://omydd5ink.bkt.clouddn.com/2018101423301990210473.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=8f249ddf17d5ad6ebef46cb8e0a252be/78310a55b319ebc4ea7ad0828e26cffc1e1716ae.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.again.free001</string>
+				<key>bundle-version</key>
+				<string>6.6.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>抖音分身版，更多免费软件分享加微信：YanQing0991</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
